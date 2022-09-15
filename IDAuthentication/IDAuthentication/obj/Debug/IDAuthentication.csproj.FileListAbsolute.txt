@@ -1,0 +1,15 @@
+D:\c#\IDAuthentication\IDAuthentication\bin\Debug\IDAuthentication.exe.config
+D:\c#\IDAuthentication\IDAuthentication\bin\Debug\IDAuthentication.exe
+D:\c#\IDAuthentication\IDAuthentication\bin\Debug\IDAuthentication.pdb
+D:\c#\IDAuthentication\IDAuthentication\bin\Debug\MetroFramework.Design.dll
+D:\c#\IDAuthentication\IDAuthentication\bin\Debug\MetroFramework.dll
+D:\c#\IDAuthentication\IDAuthentication\bin\Debug\MetroFramework.Fonts.dll
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.csproj.AssemblyReference.cache
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.csproj.SuggestedBindingRedirects.cache
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.Form1.resources
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.Properties.Resources.resources
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.csproj.GenerateResource.cache
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.csproj.CoreCompileInputs.cache
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.csproj.CopyComplete
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.exe
+D:\c#\IDAuthentication\IDAuthentication\obj\Debug\IDAuthentication.pdb
